@@ -1,17 +1,27 @@
 # SQL Básico para Análise de Dados
 
-Este repositório mostra meu domínio prático de SQL com foco em análise de dados. Os scripts foram criados para treinar e aplicar consultas SQL em situações reais de negócio.
+Repositório criado para demonstrar domínio de SQL aplicado a análise de dados.  
+Aqui você encontrará scripts com consultas reais, organizadas por tema e com comentários explicativos.
 
 ## Conteúdo
-- Consultas simples (SELECT, WHERE, ORDER BY)
-- Filtros com condições lógicas
-- Funções de agregação
-- Joins e cruzamentos de tabelas
-- Desafios práticos com simulações de banco de dados
 
-## Ferramentas utilizadas
-- SQLite Studio (uso local)
-- PostgreSQL e MySQL (com DBeaver)
+📁 `consultas_simples/`  
+Consultas com comandos básicos como `SELECT`, `WHERE`, `ORDER BY` e `LIMIT`.
 
-## Bases simuladas
-- E-commerce fictício com tabelas de clientes, pedidos, produtos e vendas
+---
+
+## Exemplos de Análises:
+
+- Clientes por cidade
+- Produtos mais caros
+- Pedidos entregues
+- Filtros por data
+
+## Ferramentas simuladas
+- MySQL / PostgreSQL / SQLite (simulação)
+- Criado para aprendizado e portfólio
+
+---
+
+🧠 Mais pastas serão adicionadas: agregações, joins, subconsultas e dashboards com SQL.
+
